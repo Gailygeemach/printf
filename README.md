@@ -41,6 +41,7 @@ ring
 Handle the following custom conversion specifier:                                  
 15. *                                                                              
 All the above options work well together.
+contibutor [RachealMERCY] (https://github.com/RachealMERCY)
 
 
 
